@@ -1,5 +1,7 @@
 <!-- Most valid html will work in here, excluding images. -->
 
-<h1>Welcome to Space Station 13!</h1>
+<h1>Welcome to AzzyStation 13!</h1>
 
-<i>This server is running a /tg/station 13 Git build.</i>
+<p> Please consider joining our discord at https://discord.gg/3bZev7vYAx. Send an adminhelp (F1), or ask in OOC if you need anything. </p>
+
+<p> If you're interested in contributing to the server in the form of code, sprites, audio design, or similar, please visit https://github.com/AzzyIsNotHere/AzzyStation </p>
