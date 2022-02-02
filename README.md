@@ -18,6 +18,9 @@ This is the codebase for the /tg/station flavoured fork of SpaceStation 13.
 
 Space Station 13 is a paranoia-laden round-based roleplaying game set against the backdrop of a nonsensical, metal death trap masquerading as a space station, with charming spritework designed to represent the sci-fi setting and its dangerous undertones. Have fun, and survive!
 
+## Closure Notice
+AzzyStation has closed as of 2/2/2022. Users are free to fork the repository, but we are no longer maintaining the code, and any further pull requests will be closed. AzzyStation continues as a community, on https://discord.gg/ggQPD6Wx6r.
+
 ## DOWNLOADING
 [Downloading](.github/guides/DOWNLOADING.md)
 
